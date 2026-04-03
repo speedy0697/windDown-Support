@@ -1,4 +1,4 @@
-# Privacy Policy for Wind Down: Sleep Ritual
+# Wind Down: Sleep Ritual — Support & Privacy
 
 Effective date: April 2, 2026
 
