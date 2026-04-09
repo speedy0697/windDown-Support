@@ -23,23 +23,13 @@ Depending on how you use Wind Down, you may provide:
 
 This information is primarily stored locally on your device.
 
-### B. Apple Sign In information
-
-If you choose to sign in with Apple, we may store the following information provided by Apple:
-
-- Your Apple user identifier
-- Your email address, if Apple shares it
-- Your name, if Apple shares it
-
-Using Sign in with Apple is optional.
-
-### C. Subscription and purchase information
+### B. Subscription and purchase information
 
 If you purchase a subscription or restore purchases, Wind Down uses RevenueCat to help manage subscriptions and entitlements. We do not directly process or store your full payment card information.
 
 Apple handles billing for App Store purchases.
 
-### D. Analytics and app usage information
+### C. Analytics and app usage information
 
 Wind Down uses PostHog to collect product analytics, such as:
 
@@ -53,7 +43,7 @@ Wind Down uses PostHog to collect product analytics, such as:
 
 These analytics help us understand how the app is used, improve reliability, and decide what to build next.
 
-### E. Device and technical information
+### D. Device and technical information
 
 Our analytics and service providers may receive limited technical information such as:
 
@@ -61,7 +51,7 @@ Our analytics and service providers may receive limited technical information su
 - Platform and app version information
 - Basic diagnostic and event metadata
 
-### F. Notifications
+### E. Notifications
 
 If you allow notifications, Wind Down schedules local notifications on your device, including:
 
@@ -79,7 +69,6 @@ We use information to:
 - Save your ritual history and preferences
 - Personalize prompts, ritual flow, and reminders
 - Schedule and deliver local notifications
-- Enable optional Sign in with Apple
 - Manage subscriptions and premium access
 - Measure usage and improve the app
 - Diagnose bugs, performance issues, and abuse
@@ -101,7 +90,6 @@ Wind Down uses third-party services to operate certain features:
 
 Apple may process information when you:
 
-- Use Sign in with Apple
 - Purchase subscriptions through the App Store
 - Receive notifications through Apple platform services
 
@@ -147,13 +135,10 @@ Information processed by third-party providers may be retained according to thei
 
 You can choose to:
 
-- Not use Sign in with Apple
 - Disable notifications in the app or in your device settings
 - Remove the app from your device
 - Delete local app data by uninstalling the app or clearing device/app storage where available
 - Avoid purchasing a subscription
-
-If you signed in with Apple, you can also stop using that feature from within the app.
 
 ## 8. Children's Privacy
 
@@ -193,7 +178,6 @@ If you have questions about this Privacy Policy or Wind Down's privacy practices
 If you submit Wind Down to the App Store, make sure your App Store Connect privacy disclosures match the current app behavior and all third-party SDKs you include. This Privacy Policy should be kept in sync with:
 
 - Analytics collection
-- Sign in with Apple usage
 - Subscription infrastructure
 - Notification content
 - Any future cloud sync or backend features
